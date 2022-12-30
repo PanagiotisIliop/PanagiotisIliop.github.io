@@ -1,0 +1,186 @@
+ .u-section-1 {
+  min-height: 868px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 434px;
+  background-image: url("images/07e247277ab1d666b4b6664e539402f63815a30272a13bcedf8a80669ea41c7518b5fbf5bcbef68636d972ffbdf4684a88b1fe3f94ea8f7c0cfaaa_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 434px;
+  background-image: url("images/09f70a992c47f87183db20bbd2a1662b1e58db4641b2a1ee6ccaba6606bf6b8bc9264663e23549c3fc2d3d7a663a25af32dae4f1e6a98e6c2529b8_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 434px;
+  background-image: url("images/a385867fa32cb8b4958e25bce03c69518ff4a884095f55f7e7be9f19dbe1c94c0198750801c0e5a605353ae8579b21be3344b65de1a9812ef4d00f_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 434px;
+  background-image: url("images/120d120890e65a614fb995e95addf599c4193a871a1663d6b8d2dc53fff9c683b597309bd62e9a6d1b6dbbfd375aea60bd34a791229b16199aeeb5_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 25px 30px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  transition-duration: 0.5s;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -831px 0 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 716px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -678px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 548px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 274px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 274px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 274px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 274px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -513px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1644px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.125rem;
+    margin-top: -1593px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1036px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 259px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 259px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 259px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 259px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: -1013px;
+  }
+}
+
+.u-section-1 .u-text-1,
+.u-section-1 .u-text-1:before,
+.u-section-1 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
